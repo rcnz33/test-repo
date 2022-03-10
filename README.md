@@ -5,4 +5,4 @@ Some desrcipton!
 
 ## Subheader
 
-Watch tutoriak on YouTube.
+Watch tutorial on YouTube.
